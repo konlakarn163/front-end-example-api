@@ -83,13 +83,15 @@
       "id": 1,
       "username": "konlakarn",
       "email": "buapian01@gmail.com",
-      "name": "konlakarn"
+      "name": "konlakarn",
+      "password": "123456"
     },
     {
+      "id": 2,
       "username": "bas",
       "email": "bas@gmail.com",
-      "name": "bas",
-      "id": 2
+      "name": "developer",
+      "password": "123456"
     }
   ]
 }
