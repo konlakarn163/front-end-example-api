@@ -32,6 +32,11 @@
       "title": "Test Create",
       "body": "Test detail create",
       "id": 9
+    },
+    {
+      "title": "This post oppo",
+      "body": "oppo post here . edit",
+      "id": 10
     }
   ],
   "comments": [
@@ -89,6 +94,11 @@
       "commentbody": "test comment",
       "postId": 9,
       "id": 11
+    },
+    {
+      "commentbody": "this comment by oppo",
+      "postId": 10,
+      "id": 12
     }
   ],
   "users": [
@@ -154,6 +164,13 @@
       "name": "konlakarn",
       "password": "123456",
       "id": 9
+    },
+    {
+      "username": "romeo",
+      "email": "romeo@gmail.con",
+      "name": "Romeo",
+      "password": "123456",
+      "id": 10
     }
   ]
 }
